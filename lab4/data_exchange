@@ -1,0 +1,15 @@
+hello
+asdasd
+5
+QUIT
+5
+QUIT
+10
++
+8
+*2
+data_exchange first.sh second.sh task1.sh task2.sh task3.sh task4.sh task5_gen.sh task5_handler.sh task6_gen.sh task6_handler.sh task6.pid task7_gen.sh task7_handler.sh task7.pid
+10
++
+7
+QUIT
